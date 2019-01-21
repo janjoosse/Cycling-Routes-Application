@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CategoryManagement
+namespace CR.Category
 {
     class Program
     {
